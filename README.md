@@ -1,74 +1,98 @@
-## Hi there 👋
-
-<!--
-**iamkrishna8/iamkrishna8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm SAI KRIHNA CHENCHUBOINA</h1>
-<h3 align="center">Aspiring MERN Stack Developer from India 🇮🇳</h3>
+<h1 align="center">Hey Everyone 👋, I'm <span style="color:#fca311">SAI KRISHNA CHENCHUBOINA</span> 🙂</h1>
+<h3 align="center">🚀 A Passionate MERN Stack Web Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Learning+MERN+Stack;Building+Full-Stack+Projects;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=600&lines=Building+awesome+Web+Apps+with+MERN!;Always+learning+and+leveling+up+💻;Let's+code+something+cool+together+🔥" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 🚀 Learning Path  
-- 🌱 Currently learning: **MongoDB, Express.js, React, Node.js**  
-- 🧠 Strengths: HTML, CSS, JavaScript  
-- 🎯 Goal: Become a **Frontend-focused MERN Developer**  
-- 💡 Exploring: UI/UX Design, Hosting, API Integration  
-
----
-
-## 🧰 Tools & Technologies  
+### 🌐 Projects & Portfolio
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  🔗 <strong>Check all my projects here:</strong><br>
+  <a href="https://github.com/iamkrishna8">github.com/iamkrishna8</a>  
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+### 👨‍💻 About Me
+- 🔭 Currently building Full Stack MERN Projects  
+- 🧠 Love problem-solving & responsive UI/UX  
+- ✨ I'm a night owl & code better with music 🎧  
+- 🌍 Goal: Build real-world scalable products!
+
+---
+
+### 📬 Connect with Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamkrishna8&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrishna8&layout=compact&theme=tokyonight" height="180px" />
+  <a href="https://www.linkedin.com/in/chenchuboina-saikrishna-6aa138299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:krishnachenchuboina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+### 🛠️ Languages & Tools  
 <p align="center">
-  <a href="https://www.linkedin.com/in/chenchuboina-saikrishna-6aa138299" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:krishnachenchuboina@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,ts,tailwind,bootstrap,redux,git,github,figma,vscode,postman,vercel,linux" />
 </p>
 
 ---
 
-## ⚡ Fun Fact  
-🕹️ I love building UIs at night 🌙 and learning new tech through real projects!  
+### 📈 GitHub Stats & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkrishna8&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrishna8&layout=compact&theme=radical&hide_border=true" width="47%" />
+</p>
 
 ---
 
-## 📊 Visitors
+### 🔥 Streak & Trophies
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishna123&label=Profile%20Views&color=brightgreen&style=flat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkrishna8&theme=tokyonight&hide_border=true" />
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamkrishna8&theme=radical&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+### 🚀 Currently Learning
+- 🌐 Advanced MERN Concepts
+- 🎨 UI/UX Design in Figma
+- ⚙️ Clean Code, Deployment, SEO
+
+---
+
+### 🧩 Fun Facts
+- 🦾 Addicted to clean code & dark themes
+- 🔄 Always exploring new dev trends
+- 🧠 I debug like a detective 🕵️‍♂️
+
+---
+
+### 🎯 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamkrishna8&style=flat-square&color=brightgreen" alt="visitor counter"/>
+</p>
+
+---
+
+## 🙌 Thanks for Visiting My Profile!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=16F7B6&center=true&width=500&lines=Thank+You+for+visiting+👋;Let%27s+Connect+and+Collaborate!;Have+a+Productive+Day+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5Wq0u9jyoK3z6F8HEv/giphy.gif" width="250" />
+</p>
+
+---
+
+<h4 align="center">✨ Let’s build something amazing together ✨</h4>
